@@ -1,21 +1,8 @@
-MIDI toolbox is a Matlab software library for analysing MIDI files. Please see the GitHub wiki (https://github.com/miditoolbox/wiki) for an introduction to the toolbox, descriptions of several examples, and pointers to the function reference pages.
+Midi toolbox 1.1 (2016) is a Matlab software library for analysing MIDI files
+
+Please see the GitHub wiki (https://github.com/miditoolbox/wiki) for an introduction to the toolbox, descriptions of several examples, and pointers to the function reference pages.
 
 MIDI Toolbox was written by Tuomas Eerola and Petri Toiviainen with additional contributions by Ed Large and his group as well as Ken Schutte (for reading midi files).
-
-
-
-Citation in bibtex format:
-
-    @misc{miditoolbox2016,
-      author = {Toiviainen, P. and Eerola, T.},
-      title = {MIDI toolbox 1.1},
-      year = {2016},
-      publisher = {GitHub},
-      journal = {GitHub repository},
-      howpublished = {\url{https://github.com/miditoolbox/1.1}}
-    }
-
-Toiviainen, P. and Eerola, T. (2016). Midi toolbox 1.1. URL: https://github.com/miditoolbox/1.1.
 
 This package is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License.
 

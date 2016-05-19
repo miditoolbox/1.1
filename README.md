@@ -9,16 +9,16 @@ Please see the any of the relevant sections about the toolbox if you are interes
 
 #### APA format:
 
-    Toiviainen, P., & Eerola, T. (2016). _MIDI Toolbox 1.1_. URL: https://github.com/miditoolbox/1.1
+    Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/1.1
 
 #### Bibtext format:
 
     @misc{miditoolbox2016,
         Author = {Toiviainen, P. and Eerola, T.},
         Date-Modified = {2016-05-18 09:15:01 +0000},
-        Howpublished = {https://github.com/miditoolbox/1.1},
+        Howpublished = {https://github.com/miditoolbox/},
         Journal = {GitHub repository},
         Publisher = {GitHub},
-        Title = {MIDI toolbox 1.1},
+        Title = {{MIDI} toolbox 1.1},
         Year = {2016}}
 

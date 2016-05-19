@@ -2,7 +2,7 @@
 
 ## History
 
-The current version of the MIDI Toolbox is 1.1. The previous version (1.01) was released 23rd Jan 2006. Originally the MIDI toolbox was released 18.5.2004.
+The current version of the MIDI Toolbox is 1.1 (release in May 2016). The previous version (1.01) was released 23rd Jan 2006. Originally the MIDI toolbox was released 18.5.2004.
 
 ## Update
 
@@ -30,13 +30,4 @@ MIDI toolbox is free software; you can redistribute it and/or modify it under th
 
 ## Installation
 
-Unpack the MIDI Toolbox file package you have downloaded. For this, use a program like Winzip for Windows and Stuffit Expander for Macintosh. This will create a directory called miditoolbox. Secondly, a version of the Matlab program needs to be installed (see www.mathworks.com). Thirdly, the Toolbox needs to be defined in the Matlab path variable. Under the File menu, select Set Path. Under the Path menu, select Add to Path. Write here the name of the directory where this toolbox has been installed. Then click OK. Finally, under the File menu, select Save Path, and then Exit.
-
-## Compatibility
-
-Windows (98, 2000, XP): The MIDI Toolbox version 1.0 is compatible with Matlab 5.3 and Matlab 6.5.
-
-Macintosh (OS X): The MIDI Toolbox version 1.0 is compatible with Matlab 6.5 for Macintosh.
-
-Linux: Currently not tested but should be compatible.
-
+Unpack the MIDI Toolbox file package you have downloaded. To use the toolbox, you need a version of the Matlab software (see [www.mathworks.com](www.mathworks.com)). Thirdly, the MIDI toolbox needs to be defined in the Matlab path variable. Under the File menu, select Set Path. Under the Path menu, select Add to Path. Write here the name of the directory where this toolbox has been installed. Then click OK. Finally, under the File menu, select Save Path, and then Exit.

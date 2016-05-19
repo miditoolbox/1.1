@@ -1,16 +1,32 @@
 #Midi toolbox 1.1 (2016)
 MIDI toolbox is a Matlab software library for analysing MIDI files.
 
-Please see the GitHub wiki (https://github.com/miditoolbox/wiki) for an introduction to the toolbox, descriptions of several examples, and pointers to the function reference pages.
+MIDI Toolbox was written by Tuomas Eerola and Petri Toiviainen in 2004. The current update contains additional contributions by Ed Large and his group as well as Ken Schutte (for reading MIDI files).
 
-MIDI Toolbox was written by Tuomas Eerola and Petri Toiviainen with additional contributions by Ed Large and his group as well as Ken Schutte (for reading midi files).
+Please see the following sections about the toolbox if you are interesting in history, examples, changes to the toolbox, or pointers available in the manual.
 
-This package is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License.
+## Contents
 
-This package is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+- [About](https://github.com/miditoolbox/1.1/about.md)
+- [Changes](https://github.com/miditoolbox/1.1/changes.md)
+- [Past uses](https://github.com/miditoolbox/1.1/past_uses.md)
+- [Manual](https://github.com/miditoolbox/1.1/documentation/MIDItoolbox1.1_manual.pdf)
+- [license](https://github.com/miditoolbox/1.1/license.md)
 
-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA, or contact license@circular-logic.com.
+## Citation
 
-By downloading MIDI Toolbox, or any subroutine thereof, you agree to the terms of the license agreement. All rights, title and interest in the Program not specifically granted in the license agreement are retained by the copyright holder. If you don’t agree to the these terms, please remove the software from your system.
+#### APA format:
 
-As stated in the GNU General Public License it is not possible to include this software library in a commercial or proprietary program. If you desire to copy, distribute, or modify the Program, including in connection with your own proprietary work, other than in accordance with the terms of the GNU General Public License, you may contact xxxx@ccccc.com to obtain a commercial license for such rights.
+    Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/1.1
+
+#### Bibtext format:
+
+    @misc{miditoolbox2016,
+        Author = {Toiviainen, P. and Eerola, T.},
+        Date-Modified = {2016-05-19 07:39:37 +0000},
+        Howpublished = {https://github.com/miditoolbox/1.1},
+        Journal = {GitHub repository},
+        Publisher = {GitHub},
+        Title = {MIDI toolbox 1.1},
+        Year = {2016}}
+

@@ -4,11 +4,11 @@ The main purpose of release 1.1 was to make the MIDI toolbox functional again. T
 
 We made the update relying on the work carried out by [Music Dynamics Lab](http://musicdynamicslab.uconn.edu/home/) run by Ed Large, who have used the same original source (Ken Schutte) for reading MIDi files as we did in our earlier fix. Thank you Ed and the wonderful [GrFNN Toolbox](http://musicdynamicslab.uconn.edu/home/multimedia/grfnn-toolbox/)    
 
-## New functions
+## New functions in 1.1
 
 * `tempocurve` - Tempo in bpm
 
-## Updated functions
+## Updated functions in 1.1
 
 * `gettempo` - Gets the mean tempo
 * `kkcc` - Added alternative key profiles (Temperley, Albrecht and Shanahan)
@@ -16,7 +16,7 @@ We made the update relying on the work carried out by [Music Dynamics Lab](http:
 * `nmat2midi` - Convenience function that uses `writeNMatToSmf`
 * `refstat` - Few new profiles (key-finding)
 
-## REMOVED functions
+## REMOVED functions in 1.1
 
 * `playmidi`  - Removed as obsolete (OS dependent)
 * `nmat2mft`  - Removed as obsolete
@@ -24,3 +24,4 @@ We made the update relying on the work carried out by [Music Dynamics Lab](http:
 * `mftxt2nmat` - Removed as obsolete
 * `nmat2midi` - Removed as obsolete
 * `setmidiplayer`  - Removed as obsolete (OS dependent)
+

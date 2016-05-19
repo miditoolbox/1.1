@@ -1,15 +1,8 @@
 ## About MIDI toolbox
 
-
 ## History
 
-The current version of the MIDI Toolbox is 1.1. The previous version was released 23rd Jan 2006. Originally it was released in 18.5.2004.
-
-## Reference
-Eerola, T. & Toiviainen, P. (2004). MIDI Toolbox: MATLAB Tools for Music Research. University of Jyväskylä: Kopijyvä, Jyväskylä, Finland. Available at https://github.com/miditoolbox/
-
-## This release
-Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/
+The current version of the MIDI Toolbox is 1.1. The previous version (1.01) was released 23rd Jan 2006. Originally the MIDI toolbox was released 18.5.2004.
 
 ## Update
 
@@ -24,6 +17,12 @@ The version 1.1 finally sorts outs this issue by relying on the work carried out
 The documentation provides a description of the Toolbox (Chapter 1), installation and system requirements (Chapter 2). Basic issues are explained in Chapter 3. Chapter 4 demonstrates the Toolbox functions using various examples and Chapter 5 constitutes the function reference section.
 
 Download MidiToolbox User's Manual (1.2 Mb pdf file)
+
+## Reference to 1.0
+Eerola, T. & Toiviainen, P. (2004). MIDI Toolbox: MATLAB Tools for Music Research. University of Jyväskylä: Kopijyvä, Jyväskylä, Finland. Available at https://github.com/miditoolbox/
+
+## Reference to 1.1
+Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/
 
 ## Toolbox is free for academic use
 

@@ -1,6 +1,6 @@
-# Past uses
+# Past uses of MIDI toolbox
 
-MIDItoolbox has been used extensively in various projects spanning a wide range of disciplines and approaches. Currently it has been cited [190 studies in Google scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=K-odYUYAAAAJ&citation_for_view=K-odYUYAAAAJ:u5HHmVD_uO8C). Here are some highlights of this diversity.
+MIDItoolbox has been used extensively in various projects spanning a wide range of disciplines and approaches. Currently it has been cited [190 studies in Google scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=K-odYUYAAAAJ&citation_for_view=K-odYUYAAAAJ:u5HHmVD_uO8C). Here are some highlights of this diversity ranging from music cognition, music therapy, music information research, neuroscience of music, and ethnomusicology.
 
 #### Music cognition
 
@@ -27,7 +27,7 @@ MIDItoolbox has been used extensively in various projects spanning a wide range 
 * [Bozkurt, B., Karaosmanoğlu, M. K., Karaçalı, B., & Ünal, E. (2014). Usul and makam driven automatic melodic segmentation for Turkish music. Journal of New Music Research, 43(4), 375-389.](http://www.tandfonline.com/doi/abs/10.1080/09298215.2014.924535)
 
 
-# Miditoolbox download stats between 2007 and 2016
+## Miditoolbox download stats between 2007 and 2016
 
 Statistics since 2007 (toolbox online since 2004).
 
@@ -84,3 +84,4 @@ The downloads come from all over the world.
 
 After eliminating 3993 "com" addresses and 168 miscellaneous addresses.
 
+TE 19-05-2016 12:26:38

@@ -1,4 +1,5 @@
-Midi toolbox 1.1 (2016) is a Matlab software library for analysing MIDI files
+#Midi toolbox 1.1 (2016)
+MIDI toolbox is a Matlab software library for analysing MIDI files.
 
 Please see the GitHub wiki (https://github.com/miditoolbox/wiki) for an introduction to the toolbox, descriptions of several examples, and pointers to the function reference pages.
 

@@ -7,8 +7,8 @@ Please see the following sections about the toolbox if you are interesting in hi
 
 ## Contents
 
-- [About](https://github.com/miditoolbox/1.1/about.md)
-- [Changes](https://github.com/miditoolbox/1.1/changes.md)
+- [About](https://github.com/miditoolbox/1.1/blob/master/about.md)
+- [Changes](changes.md)
 - [Past uses](https://github.com/miditoolbox/1.1/past_uses.md)
 - [Manual](https://github.com/miditoolbox/1.1/documentation/MIDItoolbox1.1_manual.pdf)
 - [license](https://github.com/miditoolbox/1.1/license.md)
@@ -23,7 +23,7 @@ Please see the following sections about the toolbox if you are interesting in hi
 
     @misc{miditoolbox2016,
         Author = {Toiviainen, P. and Eerola, T.},
-        Date-Modified = {2016-05-19 07:39:37 +0000},
+        Date-Modified = {2016-05-18 09:15:01 +0000},
         Howpublished = {https://github.com/miditoolbox/1.1},
         Journal = {GitHub repository},
         Publisher = {GitHub},

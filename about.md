@@ -16,13 +16,25 @@ The version 1.1 finally sorts outs this issue by relying on the work carried out
 
 The documentation provides a description of the Toolbox (Chapter 1), installation and system requirements (Chapter 2). Basic issues are explained in Chapter 3. Chapter 4 demonstrates the Toolbox functions using various examples and Chapter 5 constitutes the function reference section.
 
-Download MidiToolbox User's Manual (1.2 Mb pdf file)
+Go to MidiToolbox User's Manual [pdf file](https://github.com/miditoolbox/1.1/documentation/MIDItoolbox1.1_manual.pdf).
 
-## Reference to 1.0
-Eerola, T. & Toiviainen, P. (2004). MIDI Toolbox: MATLAB Tools for Music Research. University of Jyväskylä: Kopijyvä, Jyväskylä, Finland. Available at https://github.com/miditoolbox/
+### Citation
 
-## Reference to 1.1
-Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/
+#### APA format:
+
+    Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/1.1
+
+#### Bibtext format:
+
+    @misc{miditoolbox2016,
+        Author = {Toiviainen, P. and Eerola, T.},
+        Date-Modified = {2016-05-18 09:15:01 +0000},
+        Howpublished = {https://github.com/miditoolbox/1.1},
+        Journal = {GitHub repository},
+        Publisher = {GitHub},
+        Title = {MIDI toolbox 1.1},
+        Year = {2016}}
+
 
 ## Toolbox is free for academic use
 

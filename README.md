@@ -5,11 +5,11 @@ MIDI Toolbox was written by Tuomas Eerola and Petri Toiviainen in 2004. The curr
 
 Please see the any of the relevant sections about the toolbox if you are interesting in [history](about.md), [changes](changes.md) to the toolbox, [past uses](past_uses.md), [license](license.md), or function syntax and examples available in the [manual (pdf file)](documentation/MIDItoolbox1.1_manual.pdf).
 
-## Citation
+### Citation
 
 #### APA format:
 
-    Toiviainen, P., & Eerola, T. (2016). MIDI Toolbox 1.1. URL: https://github.com/miditoolbox/1.1
+    Toiviainen, P., & Eerola, T. (2016). _MIDI Toolbox 1.1_. URL: https://github.com/miditoolbox/1.1
 
 #### Bibtext format:
 

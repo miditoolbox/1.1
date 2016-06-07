@@ -67,9 +67,10 @@ for i=1:length(midi.track)
         %Should instead calc delta-seconds from start in seconds of current tempo?
         
     %Tempo change?
-    [mx ind] = max(find(cumtime >= tempos_time));
-    current_tempo = tempos(ind);
-    
+    if ~isempty(tempos)                              % fix suggested by Andy Milne 2 June 2016
+        [mx ind] = max(find(cumtime >= tempos_time));
+        current_tempo = tempos(ind);
+    end
     % find start/stop of notes:
     % note on with vel>0:
     if (midimeta==1 && type==144 && data(2)>0)
@@ -97,9 +98,8 @@ for i=1:length(midi.track)
         warning('note-off with no matching note-on. skipping.');
       elseif (length(ind)>1)
        	%??? not sure about this...
-%        disp('warning: found multiple note-on matches for note-off, taking
-%        first...'); % Disabled by TE 9 May 2016
-%        ind = ind(1); % Disabled by TE 9 May 2016
+        disp('warning: found multiple note-on matches for note-off, taking first...'); % Disabled by TE 9 May 2016, , brought back as suggested by Andy Mile 2 June 2016
+        ind = ind(1); % Disabled by TE 9 May 2016, brought back as suggested by Andy Mile 2 June 2016
       else
         %set duration values
         nmat(ind,2) = beat - nmat(ind,1);

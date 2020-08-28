@@ -50,7 +50,7 @@ nmat = zeros(1,7);
 %% Enter MIDI data into nmat matrices
 current_tempo = 500000;  % default tempo
 for i=1:length(midi.track)
-  cumtime=0;
+  cumtime=midi.ticks_per_quarter_note; % fix suggested by Luigi Marino 26 August 2020
   seconds=0;
   for j=1:length(midi.track(i).messages)
 
